@@ -5,9 +5,9 @@ The E-commerce website is a full-stack application built using React with Vite a
 
   <img  src="public/assets/Screenshots/0.png" alt="Home">
 
-## [🌟Live Website🌟](https://e-commerce-template-tau.vercel.app/)
+## [🌟Live Website🌟](https://e-commerce--one.vercel.app//)
 
-## [🌟Design on Figma 🌟](https://www.figma.com/file/yn2DFQJla0UiSMvomFsqwT/E-Commerce-Website-%D9%90Almdrasa?type=design&mode=design&t=fqPRRAQH5lDJGmoY-0)
+
 
 ## Table of Contents
 
@@ -115,10 +115,10 @@ To set up and run the project locally, follow these steps:
 
 ## Contact
 
-- [Author](https://github.com/AbdelrahmanAyman48)
+- [Author](https://github.com/shubham-dev-tiwari/)
 <!-- - [Website](https://mahmoud-mansy-portfolio.netlify.app/) -->
-- [Email](mailto:abdelrmanayman48@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-ayman-290674252/)
+- [Email](mailto:shubhamtiwaridevlog@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/shubham-dev-tiwari/)
 
 
 <<<<<<< HEAD
@@ -131,6 +131,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
-# E-Commerce-Template
-E-Commerce-Template
->>>>>>> 0af8b48809d88f16bdd22b57c84c99da6a8a0d22
+
