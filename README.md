@@ -100,7 +100,7 @@ To set up and run the project locally, follow these steps:
 - [LinkedIn](https://www.linkedin.com/in/shubham-dev-tiwari/)
 
 
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
